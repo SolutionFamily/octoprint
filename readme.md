@@ -1,4 +1,4 @@
-# OctopPrint Container
+# OctoPrint Container
 
 > This is a work in progress
 

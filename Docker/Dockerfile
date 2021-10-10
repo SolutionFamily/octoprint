@@ -14,3 +14,5 @@ RUN useradd -ms /bin/bash pi
 
 USER pi
 WORKDIR /home/pi
+
+ENTRYPOINT ["octoprint", "serve"]
